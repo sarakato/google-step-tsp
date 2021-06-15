@@ -55,7 +55,7 @@ There are 7 challenges of TSP in the assignment, from N = 5 to N = 2048:
 | Challenge 5 |                        512 | input_5.csv | output_5.csv |
 | Challenge 6 |                       2048 | input_6.csv | output_6.csv |
 
-See _Data Format Specification_ section to know the format of input and output
+See [Data Format Specification](https://github.com/hayatoito/google-step-tsp#data-format-specification) section to know the format of input and output
 files.
 
 ### Your tasks
